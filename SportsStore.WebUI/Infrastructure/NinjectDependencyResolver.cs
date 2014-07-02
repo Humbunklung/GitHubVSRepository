@@ -24,11 +24,11 @@ namespace SportsStore.WebUI.Infrastructure
             return _kernel.GetAll(serviceType);
         }
 
-/*
+
         private void AddBindings()
         {
             throw new NotImplementedException();
         }
-*/
+
     }
 }
